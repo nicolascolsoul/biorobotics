@@ -18,7 +18,7 @@ world.gravity =  np.array([0.0, 0.0, 0.0])
 
 # create robot
 robot = Pleurobot(sim)
-robot.position = np.array([0, 0, 0.20])
+robot.position = np.array([0, 0, 0.21])
 # print information about the robot
 robot.print_info()
 
